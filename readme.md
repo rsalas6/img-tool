@@ -36,6 +36,7 @@ To resize a specific image **sample.jpg** to a width of **300**:
 
 ```
 go run main.go --file sample.jpg --width 300
+```
 
 To resize images in a specific directory "C:\example\folder" to a width and height of 820 and 450 respectively:
 
