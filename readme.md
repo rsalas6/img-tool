@@ -49,3 +49,14 @@ go run main.go --path "C:\example\folder" --width 820 --height 450
 1.  Ensure you have Go installed on your machine.
 2.  Clone this repository.
 3.  Navigate to the directory and run the tool as described in the usage section.
+
+
+## **Compilation:**
+
+To compile the `main.go` file and generate an executable, run the following command in your terminal:
+
+```
+go build -o img-tool main.go
+```
+
+This command will compile the Go code and generate an executable named img-tool.
